@@ -1,0 +1,16 @@
+.tshirt-container{
+    border: 2px solid gray;
+    border-radius: 7px;
+}
+.tshirt-container img{
+    width: 75%;
+    height: 50%;
+    padding: 5px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.btn-buy{
+    background-color: coral;
+    width: 95%;
+}
